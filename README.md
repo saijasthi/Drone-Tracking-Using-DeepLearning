@@ -1,6 +1,4 @@
 # 5156-drone-tracking-group-project
-Midterm report: https://docs.google.com/presentation/d/1jzm5qVPfdxo1n7GDZfhV7o-jwhqSBh-9nUBBFmN3EVI/edit?usp=sharing
-
 Link to Data: https://drive.google.com/drive/folders/1X64ZJfW9hrsLdroc465YPPqIp2HaYqFq?usp=sharing
 
 ## Configure Environment
